@@ -13,6 +13,12 @@
       "url": "https://sb.5gseo.net/?url="
     },
     {
+      "id": 1,
+      "name": "VIP解析",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
       "id": 2,
       "name": "人人迷",
       "ad": "no",
