@@ -1,17 +1,17 @@
 {
   "data": [
     {
-      "name": "94神马(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "name": "久久看片(规则)",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "http://www.9rmb.com",
+      "webUrl": "https://www.jiujiukanpian.com/",
       "webOpen": false,
-      "click": false,
+      "click": true,
       "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
-        "web_name": "94神马",
+        "search_url": "https://www.jiujiukanpian.com/search?wd={kw}",
+        "nav_url": "https://www.jiujiukanpian.com/type/navCate/navPage.html",
+        "web_name": "久久看片",
         "navHtml": {
           "name": [
             "电影",
@@ -89,7 +89,7 @@
     },
     {
       "name": "NFXHD(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://nfxhd.com/",
@@ -174,7 +174,7 @@
     },
     {
       "name": "爱迪(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://aidi.tv",
@@ -269,7 +269,7 @@
     },
     {
       "name": "一只鱼(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
@@ -366,7 +366,7 @@
     },
     {
       "name": "9亿看看(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://www.9ehao.com/",
@@ -455,7 +455,7 @@
     },
     {
       "name": "555电影(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://www.555dy6.com/",
@@ -550,7 +550,7 @@
     },
     {
       "name": "西瓜视频(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "ads": "",
       "webUrl": "https://www.ixigua.com/channel/dianying/",
       "webOpen": true,
@@ -558,7 +558,7 @@
     },
     {
       "name": "长资源(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://www.qianoo.cn/",
@@ -567,7 +567,7 @@
     },
     {
       "name": "低端影视(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
       "webUrl": "https://ddrk.me",
@@ -576,7 +576,7 @@
     },
     {
       "name": "素白白(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "id=6933",
       "webUrl": "https://www.subaibai.com/",
@@ -585,7 +585,7 @@
     },
     {
       "name": "奈非高清(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "ad,https://nfxhd.com/pic/p.gif",
       "webUrl": "https://nfxhd.com/",
@@ -594,7 +594,7 @@
     },
     {
       "name": "NO视频(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "ad,https://nfxhd.com/pic/p.gif",
       "webUrl": "https://www.novipnoad.com/",
@@ -603,7 +603,7 @@
     },
     {
       "name": "zzzfun(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "type": "webPlug",
       "ads": "ad,https://nfxhd.com/pic/p.gif",
       "webUrl": "http://www.zzzfun.com/",
@@ -612,7 +612,7 @@
     },
     {
       "name": "百度搜索(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
@@ -623,7 +623,7 @@
     },
     {
       "name": "央视直播(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
@@ -634,7 +634,7 @@
     },
     {
       "name": "虎牙一起看(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/h01.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
@@ -645,7 +645,7 @@
     },
     {
       "name": "斗鱼一起看(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/d01.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
@@ -656,7 +656,7 @@
     },
     {
       "name": "哔哩哔哩一起看(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
@@ -667,7 +667,7 @@
     },
     {
       "name": "企鹅一起看(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "pic": "https://gitee.com/liu673/tv/raw/master/D03.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
