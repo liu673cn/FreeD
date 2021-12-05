@@ -8,13 +8,6 @@
       "click": true
     },
     {
-      "id": 2,
-      "name": "人人迷",
-      "url": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-      "cate": "",
-      "click": true
-    },
-        {
       "id": 3,
       "name": "番茄資源",
       "url": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
@@ -28,7 +21,7 @@
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&惊悚片,20&&犯罪片,21&&冒险片,22&&悬疑片,23&&奇幻片,24&&纪录片,25&&动画片,26&&电影,1&&连续剧,2&&综艺,3&&动漫,4&&番剧（B站专用）,27&&国创（B站专用）,28&&电影（B站专用）,29&&电视剧（B站专用）,30",
       "click": true
     },
-        {
+    {
       "id": 1,
       "name": "8090资源",
       "url": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
