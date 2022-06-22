@@ -9,8 +9,8 @@ FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任
 
 
 #### 安装教程
-
-下载地址：https://wwi.lanzoui.com/b025mpw7e <br> <br>
+下载地址1：https://tsq.lanzoui.com/b0c30eela <br> 
+下载地址2：https://wwi.lanzoui.com/b025mpw7e <br> 
 项目地址 `https://github.com/FreeDTV/FreeD`<br>
 
 接口地址 `https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/`
