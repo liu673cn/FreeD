@@ -6,7 +6,7 @@
 
 #### 介绍
 FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任何破解或者收费信息 只有Android手机版以及TV版，后面会逐步取消内置内容，你可以通过以下接口尝试自己fork接口进行添加修改。
-
+https://purge.jsdelivr.net/gh/liu673cn/FreeD/
 
 #### 安装教程
 下载地址1：https://tsq.lanzoui.com/b0c30eela <br> 
@@ -24,11 +24,11 @@ FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任
 >可能会出现 已经修改或者添加内容但是重启应用后并没有显示 
 >这是因为Jsdelivr 缓存如需实时刷新缓存即可如：
 > 
->搜索接口：
->https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/searchUrl.json
+>全局接口：
+>https://cdn.jsdelivr.net/gh/liu673cn/FreeD/
 >
 >刷新接口：
->https://purge.jsdelivr.net/gh/FreeDTV/FreeD/searchUrl.json
+>https://purge.jsdelivr.net/gh/liu673cn/FreeD/
 >
 >只需将**cdn** 改为**purge** 强制刷新即可
 
