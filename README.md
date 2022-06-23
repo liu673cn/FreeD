@@ -24,7 +24,7 @@ https://purge.jsdelivr.net/gh/liu673cn/FreeD/
 >可能会出现 已经修改或者添加内容但是重启应用后并没有显示 
 >这是因为Jsdelivr 缓存如需实时刷新缓存即可如：
 > 
->全局接口：
+>自定义全局接口：
 >https://cdn.jsdelivr.net/gh/liu673cn/FreeD/
 >
 >刷新接口：
