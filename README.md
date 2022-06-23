@@ -6,7 +6,6 @@
 
 #### 介绍
 FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任何破解或者收费信息 只有Android手机版以及TV版，后面会逐步取消内置内容，你可以通过以下接口尝试自己fork接口进行添加修改。
-https://purge.jsdelivr.net/gh/liu673cn/FreeD/
 
 #### 安装教程
 下载地址1：https://tsq.lanzoui.com/b0c30eela <br> 
